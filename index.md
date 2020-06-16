@@ -10,7 +10,7 @@ humandate: "June 22-July 2, 2020"
 humantime: "8:00 - 9:30 am Pacific"    
 startdate: 2020-06-22      
 enddate: 2020-07-02       
-instructor: ["Sue McClatchy", "Chandra Sarkar", "Muhammad Zohaib Anwar", "David Palmquist"]
+instructor: ["Sue McClatchy", "Chandra Sarkar", "Muhammad Zohaib Anwar", "David Palmquist", "Sayane Shome"]
 helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["smcclatchy1@gmail.com","second@example.org"]  
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
