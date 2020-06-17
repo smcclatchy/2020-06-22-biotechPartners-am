@@ -12,7 +12,7 @@ startdate: 2020-06-22
 enddate: 2020-07-02       
 instructor: ["Sue McClatchy", "Chandra Sarkar", "Muhammad Zohaib Anwar", "David Palmquist", "Sayane Shome"]
 helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["smcclatchy1@gmail.com","second@example.org"]  
+email: ["smcclatchy1@gmail.com", "azamudio@biotechpartners.org", "sdoughty@biotechpartners.org"]  
 collaborative_notes: https://pad.carpentries.org/2020-06-22-biotechPartners-am
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
